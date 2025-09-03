@@ -1,0 +1,15 @@
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+nltk
+spacy
+torch
+transformers
+openai
+requests
+Pillow
+
+
